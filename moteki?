@@ -131,7 +131,23 @@
             },
             "last_updated": 1637450008,
             "title": "Chapter 15 - Found a Girl I Love",
-            "volume": "1"            
+            "volume": "1"    
+      },
+        "16": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/hfooffI"
+            },
+            "last_updated": 1637452225,
+            "title": "Chapter 16 - Let's Meet With A Smile",
+            "volume": "2"
+      },
+        "17": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/hfooffI"
+            },
+            "last_updated": 1637453212,
+            "title": "Chapter 17 - Swimming",
+            "volume": "2"            
         }
    }
 }
