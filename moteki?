@@ -7,11 +7,51 @@
     "chapters": {
         "1": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/4TJmHtP"
+                "Imgur": "/proxy/api/imgur/chapter/UN2HHFE"
             },
             "last_updated": 1637397388,
             "title": "How Not to Deal With Rejection",
             "volume": "1"
-        }
-    }
+        },
+        "2": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/BnwPAKI"
+            },
+            "last_updated": 1637398648,
+            "title": "Ours is a Jellyfish Sea",
+            "volume": "1"
+        },
+        "3": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/4gpcpz5"
+            },
+            "last_updated": 1637398967,
+            "title": "Running Shot",
+            "volume": "1"   
+        },
+        "4": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/6qzFMQX"
+            },
+            "last_updated": 1637377367,
+            "title": "Love is Like a Mirage",
+            "volume": "1" 
+        },
+        "5": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/LT01tR5"
+            },
+            "last_updated": 1637377367,
+            "title": "The Poser",
+            "volume": "1"         
+        },
+        "6": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/uLgKb91"
+            },
+            "last_updated": 1637377367,
+            "title": "Late Night, High Speed",
+            "volume": "1"         
+
+   }
 }
