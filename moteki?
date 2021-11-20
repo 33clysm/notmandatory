@@ -143,11 +143,19 @@
       },
         "17": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/hfooffI"
+                "Imgur": "/proxy/api/imgur/chapter/YnbJjZ8"
             },
             "last_updated": 1637453212,
             "title": "Chapter 17 - Swimming",
             "volume": "2"            
+      },
+        "18": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/x37xqoO"
+            },
+            "last_updated": 1637456239,
+            "title": "Chapter 18 - The Eternal Puzzle",
+            "volume": "2"                      
         }
    }
 }
