@@ -155,7 +155,39 @@
             },
             "last_updated": 1637456239,
             "title": "Chapter 18 - The Eternal Puzzle",
-            "volume": "2"                      
+            "volume": "2"                  
+      },
+        "19": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/vwB5UP1"
+            },
+            "last_updated": 1637457193,
+            "title": "Chapter 19 - What is Indivudality?",
+            "volume": "2"     
+      },
+        "20": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/PsyWEe3"
+            },
+            "last_updated": 1637457945,
+            "title": "Chapter 20 - Rollin' Rollin'",
+            "volume": "2"      
+     },
+        "21": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/jLR4h5N"
+            },
+            "last_updated": 1637460093,
+            "title": "Chapter 21 - Native Dancer",
+            "volume": "2"           
+     },
+        "22": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/3JKXnpx"
+            },
+            "last_updated": 1637460568,
+            "title": "Chapter 22 - Cutting Edge",
+            "volume": "2"     
         }
    }
 }
