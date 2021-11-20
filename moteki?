@@ -83,8 +83,23 @@
             },
             "last_updated": 1637404253,
             "title": "Chapter 9 - If You're in Love, You're in Love!",
-            "volume": "2"  
-            
+            "volume": "2" 
+        },
+        "10": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/hvvNFqa"
+            },
+            "last_updated": 1637404351,
+            "title": "Chapter 10 - Mind Circus",
+            "volume": "2"            
+        },
+        "11": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/hvvNFqa"
+            },
+            "last_updated": 1637404351,
+            "title": "Chapter 10 - Mind Circus",
+            "volume": "2"            
         }
    }
 }
