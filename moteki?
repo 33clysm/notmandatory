@@ -108,6 +108,30 @@
             "last_updated": 1637443615,
             "title": "Chapter 12 - Love Cycle",
             "volume": "2"
+       },
+        "13": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/z7vdDD6"
+            },
+            "last_updated": 1637444308,
+            "title": "Chapter 13 - Night on the Galactic Railroad",
+            "volume": "2"       
+      },
+        "14": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/4Qtx34E"
+            },
+            "last_updated": 1637449313,
+            "title": "Chapter 14 - I Just Wanna Be Popular",
+            "volume": "2"
+      },
+        "15": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/QXQzh8l"
+            },
+            "last_updated": 1637450008,
+            "title": "Chapter 15 - Found a Girl I Love",
+            "volume": "2"            
         }
    }
 }
