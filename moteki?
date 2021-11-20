@@ -60,7 +60,7 @@
             "last_updated": 1637400923,
             "title": "Chapter 7 - Honor: You Will Love Me",
             "volume": "1"         
-                    },
+        },
         "7.5": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/M4Xkmvh"
@@ -68,6 +68,22 @@
             "last_updated": 1637401462,
             "title": "Bonus Chapter - Linda Linda",
             "volume": "1"         
+        },
+        "8": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/d56mmav"
+            },
+            "last_updated": 1637401747,
+            "title": "Chapter 8 - Straighten Up and Be Brave",
+            "volume": "2"
+        },
+        "9": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/jxV0uv2"
+            },
+            "last_updated": 1637402070,
+            "title": "Chapter 9 - If You're in Love, You're in Love!",
+            "volume": "2"  
             
         }
    }
