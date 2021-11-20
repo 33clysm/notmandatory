@@ -23,7 +23,7 @@
         },
         "3": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/4gpcpz5"
+                "Imgur": "/proxy/api/imgur/chapter/wspts3d"
             },
             "last_updated": 1637398967,
             "title": "Running Shot",
@@ -33,7 +33,7 @@
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/6qzFMQX"
             },
-            "last_updated": 1637377367,
+            "last_updated": 1637400218,
             "title": "Love is Like a Mirage",
             "volume": "1" 
         },
@@ -41,7 +41,7 @@
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/LT01tR5"
             },
-            "last_updated": 1637377367,
+            "last_updated": 1637400245,
             "title": "The Poser",
             "volume": "1"         
         },
@@ -49,9 +49,18 @@
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/uLgKb91"
             },
-            "last_updated": 1637377367,
+            "last_updated": 1637400258,
             "title": "Late Night, High Speed",
             "volume": "1"         
+        },
+        "7": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/MSKEJDG"
+            },
+            "last_updated": 1637400923,
+            "title": "Honor: You Will Love Me",
+            "volume": "1"         
+
         }
    }
 }
