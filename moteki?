@@ -95,11 +95,19 @@
         },
         "11": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/"
+                "Imgur": "/proxy/api/imgur/chapter/ItLNO83"
             },
-            "last_updated": 1637404351,
+            "last_updated": 1637443615,
             "title": "Chapter 11 - Perfect Star, Perfect Cycle",
-            "volume": "2"            
+            "volume": "2" 
+       },
+        "12": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/oQlOpzV"
+            },
+            "last_updated": 1637443615,
+            "title": "Chapter 12 - Love Cycle",
+            "volume": "2"
         }
    }
 }
