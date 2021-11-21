@@ -187,7 +187,103 @@
             },
             "last_updated": 1637460568,
             "title": "Chapter 22 - Cutting Edge",
-            "volume": "2"     
+            "volume": "2"  
+     },
+        "23": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/z7Dtv1j"
+            },
+            "last_updated": 1637462713,
+            "title": "Chapter 23 - The Rock 'n Roll Won't Stop Ringing",
+            "volume": "2"        
+     },
+        "23.5": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/5goIsvL"
+            },
+            "last_updated": 1637461001,
+            "title": "Bonus Chapter - Moteki: The School Days",
+            "volume": "2"   
+     },
+        "24": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/qKACT1T"
+            },
+            "last_updated": 1637461825,
+            "title": "Chapter 24 - Get Up and Dance",
+            "volume": "2"         
+     },
+        "25": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/OtEJ5uk"
+            },
+            "last_updated": 1637462268,
+            "title": "Chapter 25 - Wounds Inside My Head",
+            "volume": "2"           
+     },
+        "26": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/COyd0TL"
+            },
+            "last_updated": 1637462755,
+            "title": "Chapter 26 - Shooting Star Bebop",
+            "volume": "2" 
+     },
+        "27": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/5XTjN9T"
+            },
+            "last_updated": 1637462755,
+            "title": "Chapter 27 - Summer Nude",
+            "volume": "2"       
+     },
+        "28": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/6QK6jeA"
+            },
+            "last_updated": 1637463503,
+            "title": "Chapter 28 - Black Tea Love",
+            "volume": "2"    
+     },
+        "29": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/EXhSJxn"
+            },
+            "last_updated": 1637464536,
+            "title": "Chapter 29 - Trampoline Girl",
+            "volume": "2"         
+     },
+        "30": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/Km6IkQu"
+            },
+            "last_updated": 1637464824,
+            "title": "Chapter 30 - Stay Gold",
+            "volume": "2"             
+     },
+        "31": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/DtXgJal"
+            },
+            "last_updated": 1637465335,
+            "title": "Chapter 31 - A Life Spent on the Edge",
+            "volume": "2"      
+     },
+        "31.5": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/3IY61r7"
+            },
+            "last_updated": 1637465752,
+            "title": "Part 1 - Moteki: Girls' Side ",
+            "volume": "2"    
+     },
+        "31.6": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/j6BY8Ks"
+            },
+            "last_updated": 1637467111,
+            "title": "Part 2 - Moteki: Girls' Side ",
+            "volume": "2"               
         }
    }
 }
